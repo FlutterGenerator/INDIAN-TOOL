@@ -28,3 +28,10 @@ chmod +x setup INDIAN-TOOL
 ```
 
 ## Note: Next time when entering the tool, type "cd INDIAN-TOOL ./setup" the tool will start automatically.
+
+## FOLDER CREATE 
+## Download/INDIAN-TOOL/UNPACK
+## Download/INDIAN-TOOL/OUTOBB
+## Download/INDIAN-TOOL/REPACK
+
+## OBB PASTE UNPACK 
