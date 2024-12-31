@@ -23,4 +23,4 @@ chmod +x setup INDIAN-TOOL
 ```
 ./setup
 ```
-## Note: Next time when entering the tool, type "obb" the tool will start automatically.
+## Note: Next time when entering the tool, type "cd INDIAN-TOOL ./setup" the tool will start automatically.
