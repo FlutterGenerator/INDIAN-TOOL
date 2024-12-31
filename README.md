@@ -23,4 +23,8 @@ chmod +x setup INDIAN-TOOL
 ```
 ./setup
 ```
+```
+. PASSWORD:- INDIANTOOL
+```
+
 ## Note: Next time when entering the tool, type "cd INDIAN-TOOL ./setup" the tool will start automatically.
