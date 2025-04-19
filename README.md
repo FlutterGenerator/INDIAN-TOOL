@@ -12,7 +12,7 @@ termux-setup-storage
 ```
 ## Clone this repository
 ```
-git clone https://github.com/INDIAN-TOOL/INDIAN-TOOL.git
+git clone https://github.com/FlutterGenerator/INDIAN-TOOL.git
 ```
 ```
 cd INDIAN-TOOL
