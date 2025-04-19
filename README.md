@@ -23,6 +23,9 @@ chmod +x setup INDIAN-TOOL
 ```
 ./setup
 ```
+```
+pass:INDIANTOOL
+```
 ## Note: Next time when entering the tool, type "obb" the tool will start automatically.
 ## FOLDER CREATE DOWNLOAD (INDIAN-TOOL)
 ## UNPACK
